@@ -2,4 +2,10 @@
 <source>
   <publisher>Votre Entreprise</publisher>
   <publisherurl>https://votresite.com</publisherurl>
+  <job>
+    1
+  </job>
+  <job>
+    2
+  </job>
 </source>
