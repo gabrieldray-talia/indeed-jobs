@@ -1,11 +1,11 @@
-<job>
+<source><job>
     1
   </job><job>
     <title>Alternance - Commercial</title>
-    <date>2025-11-05T16:05:53.163Z</date>
-    <referencenumber>1006</referencenumber>
+    <date>2025-11-05T17:04:35.424Z</date>
+    <referencenumber>1007</referencenumber>
 <url>https://www.talia.fr/</url>
-<requisitionid>1006</requisitionid>
+<requisitionid>1007</requisitionid>
     <company>Talia</company>
     <city>Chelles</city>
     <state>Ile de france</state>
@@ -18,4 +18,4 @@
       nathan@talia.fr
     </email>
     <category>Option 1</category>
-</job>
+</job></source>
