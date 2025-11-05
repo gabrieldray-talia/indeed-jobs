@@ -1,11 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<source>
-  <publisher>Votre Entreprise</publisher>
-  <publisherurl>https://votresite.com</publisherurl>
-  <job>
+<job>
     1
-  </job>
-  <job>
+  </job><job>
     2
-  </job>
-</source>
+  </job><job>
+    <title></title>
+    <date>2025-11-05T15:41:10.532Z</date>
+    <referencenumber>1005</referencenumber>
+<url>https://www.talia.fr/</url>
+<requisitionid>10005</requisitionid>
+    <company>Talia</company>
+    <city></city>
+    <state></state>
+    <country></country>
+    <postalcode></postalcode>
+    <description></description>
+<jobtype>alternance	
+</jobtype>
+    <email>
+      nathan@talia.fr
+    </email>
+    <category></category>
+</job>
