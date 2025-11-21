@@ -1,21 +1,37 @@
-<source><job>
-    1
-  </job><job>
-    <title>Alternance - Commercial</title>
-    <date>2025-11-05T17:04:35.424Z</date>
-    <referencenumber>1007</referencenumber>
-<url>https://www.talia.fr/</url>
-<requisitionid>1007</requisitionid>
-    <company>Talia</company>
-    <city>Chelles</city>
-    <state>Ile de france</state>
-    <country>France</country>
-    <postalcode>77500</postalcode>
-    <description>hjfbkhvlrjv,fmrf</description>
-<jobtype>alternance	
-</jobtype>
-    <email>
-      nathan@talia.fr
-    </email>
-    <category>Option 1</category>
-</job></source>
+<?xml version="1.0" encoding="UTF-8"?>
+<jobOffers>
+  <metadata>
+    <totalCount>3</totalCount>
+    <lastUpdated>2025-11-21T13:37:32.514Z</lastUpdated>
+    <event>job_offer_updated</event>
+  </metadata>
+  <offers>
+    <offer>
+      <id>1dcdfd2c-c74e-49ca-81fa-32275f63ba3e</id>
+      <reference>JOB-1001</reference>
+      <jobTitle>Software Engineer</jobTitle>
+      <description>Develop and maintain software applications.</description>
+      <applicationUrl>https://example.com/jobs/1001</applicationUrl>
+      <location>New York, NY</location>
+      <status>Active</status>
+    </offer>
+    <offer>
+      <id>3f4b7553-2a5d-4cb0-8be6-c3b97a33cfd8</id>
+      <reference>JOB-1001783913</reference>
+      <jobTitle>Data Analyst</jobTitle>
+      <description>Analyze data to derive actionable insights.</description>
+      <applicationUrl>https://example.com/jobs/1003</applicationUrl>
+      <location>Remote</location>
+      <status>Active</status>
+    </offer>
+    <offer>
+      <id>a71eddd5-d3e4-46be-a2ef-8ff19afb2965</id>
+      <reference>gyhgjh</reference>
+      <jobTitle>jkhghj</jobTitle>
+      <description>bjhbjh</description>
+      <applicationUrl>https://talia.fr</applicationUrl>
+      <location>njijk</location>
+      <status>Active</status>
+    </offer>
+  </offers>
+</jobOffers>
