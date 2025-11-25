@@ -2,11 +2,11 @@
 <source>
   <publisher><![CDATA[Talia]]></publisher>
   <publisherurl><![CDATA[https://talia.fr]]></publisherurl>
-  <lastBuildDate>Mon, 24 Nov 2025 17:37:36 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 25 Nov 2025 11:15:40 GMT</lastBuildDate>
   
   <job>
     <title><![CDATA[Software Engineer]]></title>
-    <date><![CDATA[Mon, 24 Nov 2025 17:37:36 GMT]]></date>
+    <date><![CDATA[Tue, 25 Nov 2025 11:15:40 GMT]]></date>
     <referencenumber><![CDATA[JOB-10033]]></referencenumber>
     <url><![CDATA[https://example.com/jobs/1001]]></url>
     <company><![CDATA[Talia]]></company>
@@ -19,22 +19,8 @@
     <description><![CDATA[Develop and maintain software applications.]]></description>
   </job>
   <job>
-    <title><![CDATA[Data Analyst]]></title>
-    <date><![CDATA[Mon, 24 Nov 2025 17:37:36 GMT]]></date>
-    <referencenumber><![CDATA[JOB-1001783913]]></referencenumber>
-    <url><![CDATA[https://example.com/jobs/1003]]></url>
-    <company><![CDATA[Talia]]></company>
-    <sourcename><![CDATA[Talia]]></sourcename>
-    <city><![CDATA[Remote]]></city>
-    <state><![CDATA[]]></state>
-    <country><![CDATA[FR]]></country>
-    <postalcode><![CDATA[]]></postalcode>
-    <email><![CDATA[recrutement@talia.fr]]></email>
-    <description><![CDATA[Analyze data to derive actionable insights.]]></description>
-  </job>
-  <job>
     <title><![CDATA[jkhghj]]></title>
-    <date><![CDATA[Mon, 24 Nov 2025 17:37:36 GMT]]></date>
+    <date><![CDATA[Tue, 25 Nov 2025 11:15:40 GMT]]></date>
     <referencenumber><![CDATA[gyhgjh]]></referencenumber>
     <url><![CDATA[https://talia.fr]]></url>
     <company><![CDATA[Talia]]></company>
