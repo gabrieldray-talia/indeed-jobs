@@ -2,11 +2,11 @@
 <source>
   <publisher><![CDATA[Talia]]></publisher>
   <publisherurl><![CDATA[https://talia.fr]]></publisherurl>
-  <lastBuildDate>Thu, 04 Dec 2025 16:54:58 GMT</lastBuildDate>
+  <lastBuildDate>Thu, 04 Dec 2025 17:49:16 GMT</lastBuildDate>
   
   <job>
     <title><![CDATA[Software Engineer]]></title>
-    <date><![CDATA[Thu, 04 Dec 2025 16:54:58 GMT]]></date>
+    <date><![CDATA[Thu, 04 Dec 2025 17:49:16 GMT]]></date>
     <referencenumber><![CDATA[JOB-10033]]></referencenumber>
     <url><![CDATA[https://example.com/jobs/1001]]></url>
     <company><![CDATA[Talia]]></company>
@@ -17,19 +17,5 @@
     <postalcode><![CDATA[]]></postalcode>
     <email><![CDATA[recrutement@talia.fr]]></email>
     <description><![CDATA[Develop and maintain software applications.]]></description>
-  </job>
-  <job>
-    <title><![CDATA[Product Manager]]></title>
-    <date><![CDATA[Thu, 04 Dec 2025 16:54:58 GMT]]></date>
-    <referencenumber><![CDATA[JOB-1002]]></referencenumber>
-    <url><![CDATA[https://example.com/jobs/1002]]></url>
-    <company><![CDATA[Talia]]></company>
-    <sourcename><![CDATA[Talia]]></sourcename>
-    <city><![CDATA[San Francisco, CA]]></city>
-    <state><![CDATA[]]></state>
-    <country><![CDATA[FR]]></country>
-    <postalcode><![CDATA[]]></postalcode>
-    <email><![CDATA[recrutement@talia.fr]]></email>
-    <description><![CDATA[Lead product development from concept to launch.]]></description>
   </job>
 </source>
