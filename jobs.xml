@@ -1,21 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <publisher><![CDATA[Talia]]></publisher>
-  <publisherurl><![CDATA[https://talia.fr]]></publisherurl>
-  <lastBuildDate>Thu, 04 Dec 2025 17:49:16 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 05 Dec 2025 10:04:24 GMT</lastBuildDate>
   
   <job>
     <title><![CDATA[Software Engineer]]></title>
-    <date><![CDATA[Thu, 04 Dec 2025 17:49:16 GMT]]></date>
-    <referencenumber><![CDATA[JOB-10033]]></referencenumber>
-    <url><![CDATA[https://example.com/jobs/1001]]></url>
+    <date><![CDATA[Fri, 05 Dec 2025 10:04:24 GMT]]></date>
+    <referencenumber><![CDATA[https://example.com/jobs/1001]]></referencenumber>
+    <url><![CDATA[https://talia.fr/jobs]]></url>
     <company><![CDATA[Talia]]></company>
-    <sourcename><![CDATA[Talia]]></sourcename>
-    <city><![CDATA[New York, NY]]></city>
+    <city><![CDATA[JOB-10033]]></city>
     <state><![CDATA[]]></state>
-    <country><![CDATA[FR]]></country>
+    <country><![CDATA[]]></country>
     <postalcode><![CDATA[]]></postalcode>
-    <email><![CDATA[recrutement@talia.fr]]></email>
+    <email><![CDATA[cv.alternant@talia.fr]]></email>
     <description><![CDATA[Develop and maintain software applications.]]></description>
+  </job>
+  <job>
+    <title><![CDATA[Test GAb]]></title>
+    <date><![CDATA[Fri, 05 Dec 2025 10:04:24 GMT]]></date>
+    <referencenumber><![CDATA[TAL-2025-1]]></referencenumber>
+    <url><![CDATA[https://talia.fr/jobs]]></url>
+    <company><![CDATA[Talia]]></company>
+    <city><![CDATA[Paris]]></city>
+    <state><![CDATA[]]></state>
+    <country><![CDATA[]]></country>
+    <postalcode><![CDATA[]]></postalcode>
+    <email><![CDATA[cv.alternant@talia.fr]]></email>
+    <description><![CDATA[Je test l'appli]]></description>
   </job>
 </source>
