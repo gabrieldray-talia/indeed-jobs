@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 05 Dec 2025 14:19:51 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 05 Dec 2025 14:23:40 GMT</lastBuildDate>
   
   <job>
     <title><![CDATA[Employé(e) polyvalent(e)]]></title>
-    <date><![CDATA[Fri, 05 Dec 2025 14:19:51 GMT]]></date>
+    <date><![CDATA[Fri, 05 Dec 2025 14:23:40 GMT]]></date>
     <referencenumber><![CDATA[TAL_2025_1]]></referencenumber>
     <url><![CDATA[https://talia.fr/jobs]]></url>
     <company><![CDATA[Talia]]></company>
@@ -17,15 +17,15 @@
   </job>
   <job>
     <title><![CDATA[Assistant(e) administratif et ressources humaines]]></title>
-    <date><![CDATA[Fri, 05 Dec 2025 14:19:51 GMT]]></date>
-    <referencenumber><![CDATA[TAL_2025_2]]></referencenumber>
+    <date><![CDATA[Fri, 05 Dec 2025 14:23:40 GMT]]></date>
+    <referencenumber><![CDATA[TAL_2025_3]]></referencenumber>
     <url><![CDATA[https://talia.fr/jobs]]></url>
     <company><![CDATA[Talia]]></company>
-    <city><![CDATA[Lille]]></city>
-    <state><![CDATA[Hauts-de-France]]></state>
+    <city><![CDATA[Nantes]]></city>
+    <state><![CDATA[Pays de la Loire]]></state>
     <country><![CDATA[France]]></country>
-    <postalcode><![CDATA[59000]]></postalcode>
+    <postalcode><![CDATA[44000]]></postalcode>
     <email><![CDATA[cv.alternant@talia.fr]]></email>
-    <description><![CDATA[test]]></description>
+    <description><![CDATA[g'tg]]></description>
   </job>
 </source>
