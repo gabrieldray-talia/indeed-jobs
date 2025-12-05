@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-  <lastBuildDate>Fri, 05 Dec 2025 13:56:55 GMT</lastBuildDate>
+  <lastBuildDate>Fri, 05 Dec 2025 14:02:26 GMT</lastBuildDate>
   
   <job>
     <title><![CDATA[Employé(e) polyvalent(e)]]></title>
-    <date><![CDATA[Fri, 05 Dec 2025 13:56:55 GMT]]></date>
+    <date><![CDATA[Fri, 05 Dec 2025 14:02:26 GMT]]></date>
     <referencenumber><![CDATA[TAL-2025-2]]></referencenumber>
     <url><![CDATA[https://talia.fr/jobs]]></url>
     <company><![CDATA[Talia]]></company>
@@ -14,5 +14,18 @@
     <postalcode><![CDATA[13001]]></postalcode>
     <email><![CDATA[cv.alternant@talia.fr]]></email>
     <description><![CDATA[e'e"]]></description>
+  </job>
+  <job>
+    <title><![CDATA[Employé(e) polyvalent(e)]]></title>
+    <date><![CDATA[Fri, 05 Dec 2025 14:02:26 GMT]]></date>
+    <referencenumber><![CDATA[TAL-2025-3]]></referencenumber>
+    <url><![CDATA[https://talia.fr/jobs]]></url>
+    <company><![CDATA[Talia]]></company>
+    <city><![CDATA[Lyon]]></city>
+    <state><![CDATA[Auvergne-Rhône-Alpes]]></state>
+    <country><![CDATA[France]]></country>
+    <postalcode><![CDATA[69001]]></postalcode>
+    <email><![CDATA[cv.alternant@talia.fr]]></email>
+    <description><![CDATA[tgryhy]]></description>
   </job>
 </source>
