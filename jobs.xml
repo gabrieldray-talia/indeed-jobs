@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-<lastBuildDate>Tue, 09 Dec 2025 13:38:28 GMT</lastBuildDate>
+<lastBuildDate>Tue, 09 Dec 2025 13:38:48 GMT</lastBuildDate>
 <job>
 <title><![CDATA[Assistant(e) Commercial(e) et Marketing en alternance]]></title>
-<date><![CDATA[Tue, 09 Dec 2025 13:38:28 GMT]]></date>
+<date><![CDATA[Tue, 09 Dec 2025 13:38:48 GMT]]></date>
 <referencenumber><![CDATA[TAL_2025_2]]></referencenumber>
 <url><![CDATA[https://www.talia.fr/carriere]]></url>
 <company><![CDATA[Talia]]></company>
@@ -40,47 +40,5 @@
 
 <h3>Type de contrat et avantages</h3>
 <p>Il s'agit d'un contrat en alternance, vous permettant de combiner études et expérience professionnelle. En choisissant Talia, vous bénéficierez d’un accompagnement personnalisé, de formations ciblées et d’un réseau professionnel vaste pour booster votre carrière.</p>]]></description>
-</job>
-<job>
-<title><![CDATA[Secrétaire en alternance]]></title>
-<date><![CDATA[Tue, 09 Dec 2025 13:38:28 GMT]]></date>
-<referencenumber><![CDATA[TAL_2025_1]]></referencenumber>
-<url><![CDATA[https://www.talia.fr/carriere]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Lyon]]></city>
-<state><![CDATA[Auvergne-Rhône-Alpes]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[69001]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[```html
-<h2>Présentation</h2>
-<p>Talia est une école spécialisée dans la vente, le commerce et les fonctions tertiaires. Nous formons des professionnels capables de répondre aux exigences d'un marché en constante évolution. Notre objectif est de contribuer au développement des compétences de nos étudiants tout en les accompagnant vers la réussite professionnelle.</p>
-
-<h3>Poste à pourvoir</h3>
-<p>Nous recherchons un(e) alternant(e) pour rejoindre notre entreprise partenaire située à Lyon, Auvergne-Rhône-Alpes. Ce poste de secrétaire est une opportunité unique d'intégrer le monde professionnel tout en poursuivant sa formation.</p>
-
-<h3>Missions</h3>
-<ul>
-    <li>Assurer l'accueil des visiteurs et la gestion des appels téléphoniques.</li>
-    <li>Organiser et planifier les rendez-vous et les réunions.</li>
-    <li>Gérer la correspondance et les documents administratifs.</li>
-    <li>Participer à la mise à jour des bases de données et des fichiers clients.</li>
-    <li>Support à l'équipe dans les tâches quotidiennes et les projets en cours.</li>
-</ul>
-
-<h3>Profil recherché</h3>
-<p>Nous sommes à la recherche d'un(e) candidat(e) qui :</p>
-<ul>
-    <li>A un bon sens de l'organisation et de la gestion du temps.</li>
-    <li>Possède d'excellentes compétences en communication écrite et orale.</li>
-    <li>Est à l'aise avec les outils informatiques (Pack Office). </li>
-    <li>Fait preuve d'autonomie, de rigueur et d'un bon esprit d'équipe.</li>
-    <li>Est en cours de formation dans le domaine administratif ou commercial.</li>
-</ul>
-
-<h3>Informations complémentaires</h3>
-<p>Ce poste est proposé sous un contrat en alternance, ce qui vous permettra de mettre en pratique vos connaissances tout en bénéficiant de l'accompagnement de nos enseignants et de l'expérience en entreprise. En intégrant Talia, vous profiterez d'un cadre d'apprentissage stimulant et d'opportunités de développement professionnel.</p>
-```]]></description>
 </job>
 </source>
