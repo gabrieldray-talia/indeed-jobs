@@ -1,0 +1,23 @@
+{
+  "schemaVersion": "1.0",
+  "screenerQuestions": {
+    "questions": [
+      {
+        "id": "candidate-age",
+        "type": "text",
+        "question": "Quel âge avez-vous ?",
+        "required": true,
+        "format": "integer",
+        "min": 16,
+        "max": 65
+      },
+      {
+        "id": "candidate-departement",
+        "type": "text",
+        "question": "Quel est votre département de résidence ? (ex : 75, 93, 69...)",
+        "required": true,
+        "format": "numeric_text"
+      }
+    ]
+  }
+}
