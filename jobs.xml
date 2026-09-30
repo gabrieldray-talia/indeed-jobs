@@ -1,18 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-<lastBuildDate>Fri, 25 Sep 2026 11:02:29 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 10:39:50 GMT</lastBuildDate>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-28T15:59:05Z]]></date>
+<referencenumber><![CDATA[TAL_2026_48]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_48]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_48?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Aubervilliers]]></city>
+<state><![CDATA[Île-de-France]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[93300]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recherchons un(e) Employé(e) Polyvalent(e) en alternance pour rejoindre l'une de nos entreprises partenaires à Aubervilliers et développer des compétences variées dans un environnement dynamique.</p>
+
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Assurer l'accueil et le conseil des clients avec professionnalisme et convivialité</li>
+<li>Participer à la mise en rayon, au réassort des produits et à la bonne tenue de l'espace de vente</li>
+<li>Effectuer les opérations d'encaissement et gérer les transactions en toute autonomie</li>
+<li>Contribuer à la gestion des stocks et au suivi des commandes en collaboration avec l'équipe</li>
+</ul>
+
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Vous êtes dynamique, polyvalent(e) et appréciez le contact client</li>
+<li>Vous faites preuve de rigueur et d'esprit d'équipe dans vos missions quotidiennes</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé pour réussir votre parcours professionnel et développer vos compétences terrain</li>
+</ul>
+
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_48&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Aubervilliers%2C%20%C3%8Ele-de-France%2093300&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_48&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
 <job>
 <title><![CDATA[Vendeur(se) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
 <referencenumber><![CDATA[TAL_2026_40]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=6a043a84ba14ccf16f9b187a]]></url>
+<requisitionid><![CDATA[TAL_2026_40]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_40?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Levallois-Perret]]></city>
 <state><![CDATA[Île-de-France]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[92300]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
@@ -34,90 +77,22 @@
 <li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_40&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Levallois-Perret%2C%20%C3%8Ele-de-France%2092300&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D6a043a84ba14ccf16f9b187a&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_40&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Levallois-Perret%2C%20%C3%8Ele-de-France%2092300&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_40&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Vendeur(se) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_35]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69fb0774199363dc527a2bf0]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Marseille]]></city>
-<state><![CDATA[Provence-Alpes-Côte d'Azur]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[13001]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients en boutique</li>
-<li>Mettre en valeur les produits et assurer la bonne tenue de l'espace de vente</li>
-<li>Participer aux objectifs de vente et fidéliser la clientèle</li>
-<li>Contribuer à une expérience d'achat chaleureuse et de qualité</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Dynamisme, motivation et goût du challenge commercial</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_35&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Marseille%2C%20Provence-Alpes-C%C3%B4te%20d'Azur%2013001&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69fb0774199363dc527a2bf0&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Vendeur(se) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_36]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69fb0774199363dc527a2bf1]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Lille]]></city>
-<state><![CDATA[Hauts-de-France]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[59000]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients en boutique</li>
-<li>Mettre en valeur les produits et assurer la bonne tenue de l'espace de vente</li>
-<li>Participer aux objectifs de vente et fidéliser la clientèle</li>
-<li>Contribuer à une expérience d'achat chaleureuse et de qualité</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Dynamisme, motivation et goût du challenge commercial</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_36&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lille%2C%20Hauts-de-France%2059000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69fb0774199363dc527a2bf1&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Vendeur(se) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
 <referencenumber><![CDATA[TAL_2026_37]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69fb0774199363dc527a2bf2]]></url>
+<requisitionid><![CDATA[TAL_2026_37]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_37?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Toulouse]]></city>
 <state><![CDATA[Occitanie]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[31000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
@@ -139,55 +114,133 @@
 <li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_37&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69fb0774199363dc527a2bf2&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_37&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_37&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_30]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba89e14c9bea69d1c83a93]]></url>
+<title><![CDATA[Vendeur(se) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_36]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_36]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_36?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
-<city><![CDATA[Montpellier]]></city>
-<state><![CDATA[Occitanie]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[34000]]></postalcode>
+<city><![CDATA[Lille]]></city>
+<state><![CDATA[Hauts-de-France]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[59000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+<li>Accueillir, conseiller et accompagner les clients en boutique</li>
+<li>Mettre en valeur les produits et assurer la bonne tenue de l'espace de vente</li>
+<li>Participer aux objectifs de vente et fidéliser la clientèle</li>
+<li>Contribuer à une expérience d'achat chaleureuse et de qualité</li>
 </ul>
 <p><strong>Profil recherché</strong></p>
 <ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
 <li>Aisance relationnelle et goût du contact client</li>
+<li>Dynamisme, motivation et goût du challenge commercial</li>
 <li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
 </ul>
 <p><strong>Ce que nous offrons</strong></p>
 <ul>
 <li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
 <li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_30&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Montpellier%2C%20Occitanie%2034000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba89e14c9bea69d1c83a93&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_36&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lille%2C%20Hauts-de-France%2059000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_36&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Vendeur(se) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_35]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_35]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_35?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Marseille]]></city>
+<state><![CDATA[Provence-Alpes-Côte d'Azur]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[13001]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients en boutique</li>
+<li>Mettre en valeur les produits et assurer la bonne tenue de l'espace de vente</li>
+<li>Participer aux objectifs de vente et fidéliser la clientèle</li>
+<li>Contribuer à une expérience d'achat chaleureuse et de qualité</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Dynamisme, motivation et goût du challenge commercial</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_35&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Marseille%2C%20Provence-Alpes-C%C3%B4te%20d'Azur%2013001&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_35&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Vendeur(se) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_38]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_38]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_38?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Bordeaux]]></city>
+<state><![CDATA[Nouvelle-Aquitaine]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[33000]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients en boutique</li>
+<li>Mettre en valeur les produits et assurer la bonne tenue de l'espace de vente</li>
+<li>Participer aux objectifs de vente et fidéliser la clientèle</li>
+<li>Contribuer à une expérience d'achat chaleureuse et de qualité</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Dynamisme, motivation et goût du challenge commercial</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_38&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Bordeaux%2C%20Nouvelle-Aquitaine%2033000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_38&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
 <referencenumber><![CDATA[TAL_2026_31]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba89e14c9bea69d1c83a94]]></url>
+<requisitionid><![CDATA[TAL_2026_31]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_31?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Montpellier]]></city>
 <state><![CDATA[Occitanie]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[34000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
@@ -209,20 +262,59 @@
 <li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_31&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Montpellier%2C%20Occitanie%2034000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba89e14c9bea69d1c83a94&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_31&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Montpellier%2C%20Occitanie%2034000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_31&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_30]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_30]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_30?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Montpellier]]></city>
+<state><![CDATA[Occitanie]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[34000]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_30&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Montpellier%2C%20Occitanie%2034000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_30&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Vendeur(se) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
 <referencenumber><![CDATA[TAL_2026_15]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba8926a1d239b4533bdfb2]]></url>
+<requisitionid><![CDATA[TAL_2026_15]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_15?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Lyon]]></city>
 <state><![CDATA[Auvergne-Rhône-Alpes]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[69001]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des vendeurs en boutique motivés, prêts à se former tout en gagnant une vraie expérience terrain au contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
@@ -244,20 +336,207 @@
 <li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_15&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba8926a1d239b4533bdfb2&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Vendeur(se)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_15&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_15&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:01Z]]></date>
+<referencenumber><![CDATA[TAL_2026_19]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_19]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_19?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Paris 20ème]]></city>
+<state><![CDATA[Île-de-France]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[75020]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_19&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Paris%2020%C3%A8me%2C%20%C3%8Ele-de-France%2075020&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_19&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_27]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_27]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_27?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Toulouse]]></city>
+<state><![CDATA[Occitanie]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[31000]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_27&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_27&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_20]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_20]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_20?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Bordeaux]]></city>
+<state><![CDATA[Nouvelle-Aquitaine]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[33000]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_20&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Bordeaux%2C%20Nouvelle-Aquitaine%2033000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_20&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_24]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_24]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_24?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Lyon]]></city>
+<state><![CDATA[Auvergne-Rhône-Alpes]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[69001]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_24&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_24&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
+<referencenumber><![CDATA[TAL_2026_16]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_16]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_16?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Saint-Denis]]></city>
+<state><![CDATA[Île-de-France]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[93200]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Accueillir, conseiller et accompagner les clients</li>
+<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
+<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Polyvalence, dynamisme et sens de l'organisation</li>
+<li>Aisance relationnelle et goût du contact client</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_16&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Saint-Denis%2C%20%C3%8Ele-de-France%2093200&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_16&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:00Z]]></date>
 <referencenumber><![CDATA[TAL_2026_25]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e01b]]></url>
+<requisitionid><![CDATA[TAL_2026_25]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_25?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Nantes]]></city>
 <state><![CDATA[Pays de la Loire]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[44000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>Etes-vous à la recherche d'une opportunité d'alternance en tant qu'Employé(e) Polyvalent(e) à Nantes (44000) ?</strong></p>
 <p><strong>L'école Talia.fr</strong> vous propose une formation diplômante reconnue par l'État, qui vous permettra d'obtenir <strong>Bac+2 à Bac+5</strong>.</p>
 <p><strong>Une entreprise partenaire dans le secteur de la vente et du commerce</strong> est à la recherche d'un(e) employé(e) polyvalent(e) en alternance.</p>
@@ -272,265 +551,22 @@
 <p>L'entreprise partenaire prendra en charge les frais de votre alternance, et vous serez rémunéré(e). Rejoignez l'équipe de notre entreprise partenaire pour développer vos compétences dans le secteur commercial et acquérir une expérience professionnelle solide.</p>
 <p>N'attendez plus, postulez dès maintenant pour cette opportunité de formation et d'emploi en alternance !</p>
 <p><strong>Pas de frais à prévoir pour le candidat retenu.</strong><br/>Type d'emploi : Apprentissage<br/>Lieu du poste : En présentiel</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_25&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Nantes%2C%20Pays%20de%20la%20Loire%2044000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e01b&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_16]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e012]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Saint-Denis]]></city>
-<state><![CDATA[Île-de-France]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[93200]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_16&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Saint-Denis%2C%20%C3%8Ele-de-France%2093200&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e012&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_24]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e01a]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Lyon]]></city>
-<state><![CDATA[Auvergne-Rhône-Alpes]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[69001]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_24&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e01a&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_20]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e016]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Bordeaux]]></city>
-<state><![CDATA[Nouvelle-Aquitaine]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[33000]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_20&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Bordeaux%2C%20Nouvelle-Aquitaine%2033000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e016&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_27]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e01d]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Toulouse]]></city>
-<state><![CDATA[Occitanie]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[31000]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_27&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e01d&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_19]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba890f7a13cb2fa7f0e015]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Paris]]></city>
-<state><![CDATA[Île-de-France]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[75020]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_19&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Paris%2C%20%C3%8Ele-de-France%2075020&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba890f7a13cb2fa7f0e015&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_25&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Nantes%2C%20Pays%20de%20la%20Loire%2044000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_25&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_8]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba8899eaa4c97d0b4fc3d3]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Lyon]]></city>
-<state><![CDATA[Auvergne-Rhône-Alpes]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[69001]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Assurer l'accueil et la première prise en charge de chaque client</li>
-<li>Conseiller, orienter et accompagner les clients dans leurs achats</li>
-<li>Participer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>Contribuer à une expérience client fluide et chaleureuse</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Excellent sens de l'accueil et aisance relationnelle</li>
-<li>Dynamisme, motivation et goût du challenge commercial</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_8&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba8899eaa4c97d0b4fc3d3&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_14]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba8899eaa4c97d0b4fc3d9]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Bordeaux]]></city>
-<state><![CDATA[Nouvelle-Aquitaine]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[33000]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Assurer l'accueil et la première prise en charge de chaque client</li>
-<li>Conseiller, orienter et accompagner les clients dans leurs achats</li>
-<li>Participer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>Contribuer à une expérience client fluide et chaleureuse</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Excellent sens de l'accueil et aisance relationnelle</li>
-<li>Dynamisme, motivation et goût du challenge commercial</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_14&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Bordeaux%2C%20Nouvelle-Aquitaine%2033000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba8899eaa4c97d0b4fc3d9&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
+<date><![CDATA[2026-09-23T12:23:01Z]]></date>
 <referencenumber><![CDATA[TAL_2026_11]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba8899eaa4c97d0b4fc3d6]]></url>
+<requisitionid><![CDATA[TAL_2026_11]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_11?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
 <city><![CDATA[Toulouse]]></city>
 <state><![CDATA[Occitanie]]></state>
-<country><![CDATA[France]]></country>
+<country><![CDATA[FR]]></country>
 <postalcode><![CDATA[31000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
 <description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
@@ -552,41 +588,80 @@
 <li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_11&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba8899eaa4c97d0b4fc3d6&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_11&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_11&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
-<title><![CDATA[Employé(e) Polyvalent(e) en alternance H/F]]></title>
-<date><![CDATA[Fri, 25 Sep 2026 11:02:29 GMT]]></date>
-<referencenumber><![CDATA[TAL_2026_7]]></referencenumber>
-<url><![CDATA[https://gestion-des-offres-demploi-26a8a93f.base44.app/OfferDetails?id=69ba8899eaa4c97d0b4fc3d2]]></url>
+<title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:01Z]]></date>
+<referencenumber><![CDATA[TAL_2026_14]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_14]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_14?source=Indeed]]></url>
 <company><![CDATA[Talia]]></company>
-<city><![CDATA[Marseille]]></city>
-<state><![CDATA[Provence-Alpes-Côte d'Azur]]></state>
-<country><![CDATA[France]]></country>
-<postalcode><![CDATA[13001]]></postalcode>
+<city><![CDATA[Bordeaux]]></city>
+<state><![CDATA[Nouvelle-Aquitaine]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[33000]]></postalcode>
 <email><![CDATA[cv.alternant@talia.fr]]></email>
 <salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des employé(e)s polyvalent(e)s motivé(e)s, prêt(e)s à se former tout en gagnant une vraie expérience terrain sur des missions variées.</p>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
 <p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
 <ul>
-<li>Accueillir, conseiller et accompagner les clients</li>
-<li>Participer à la mise en rayon, à la mise en valeur des produits et à la tenue du point de vente</li>
-<li>Contribuer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>S'adapter aux différentes tâches du quotidien selon les besoins</li>
+<li>Assurer l'accueil et la première prise en charge de chaque client</li>
+<li>Conseiller, orienter et accompagner les clients dans leurs achats</li>
+<li>Participer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>Contribuer à une expérience client fluide et chaleureuse</li>
 </ul>
 <p><strong>Profil recherché</strong></p>
 <ul>
-<li>Polyvalence, dynamisme et sens de l'organisation</li>
-<li>Aisance relationnelle et goût du contact client</li>
+<li>Excellent sens de l'accueil et aisance relationnelle</li>
+<li>Dynamisme, motivation et goût du challenge commercial</li>
 <li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
 </ul>
 <p><strong>Ce que nous offrons</strong></p>
 <ul>
 <li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
 <li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
 </ul>
 <p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_7&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Marseille%2C%20Provence-Alpes-C%C3%B4te%20d'Azur%2013001&indeed-apply-jobUrl=https%3A%2F%2Fgestion-des-offres-demploi-26a8a93f.base44.app%2FOfferDetails%3Fid%3D69ba8899eaa4c97d0b4fc3d2&indeed-apply-postUrl=https%3A%2F%2Fhook.eu1.make.com%2Fy1yquof934j7l1fyodbpqqwbo6amhe3b&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_14&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Bordeaux%2C%20Nouvelle-Aquitaine%2033000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_14&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
+</job>
+<job>
+<title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
+<date><![CDATA[2026-09-23T12:23:01Z]]></date>
+<referencenumber><![CDATA[TAL_2026_8]]></referencenumber>
+<requisitionid><![CDATA[TAL_2026_8]]></requisitionid>
+<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_8?source=Indeed]]></url>
+<company><![CDATA[Talia]]></company>
+<city><![CDATA[Lyon]]></city>
+<state><![CDATA[Auvergne-Rhône-Alpes]]></state>
+<country><![CDATA[FR]]></country>
+<postalcode><![CDATA[69001]]></postalcode>
+<email><![CDATA[cv.alternant@talia.fr]]></email>
+<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
+<jobtype><![CDATA[fulltime]]></jobtype>
+<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
+<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
+<ul>
+<li>Assurer l'accueil et la première prise en charge de chaque client</li>
+<li>Conseiller, orienter et accompagner les clients dans leurs achats</li>
+<li>Participer aux actions de vente et à la fidélisation de la clientèle</li>
+<li>Contribuer à une expérience client fluide et chaleureuse</li>
+</ul>
+<p><strong>Profil recherché</strong></p>
+<ul>
+<li>Excellent sens de l'accueil et aisance relationnelle</li>
+<li>Dynamisme, motivation et goût du challenge commercial</li>
+<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
+</ul>
+<p><strong>Ce que nous offrons</strong></p>
+<ul>
+<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
+<li>Une rémunération selon le barème légal de l'alternance</li>
+<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
+</ul>
+<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
+<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_8&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Lyon%2C%20Auvergne-Rh%C3%B4ne-Alpes%2069001&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_8&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 </source>
