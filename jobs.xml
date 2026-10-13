@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <source>
-<lastBuildDate>Tue, 13 Oct 2026 14:42:22 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 14:43:36 GMT</lastBuildDate>
 <job>
 <title><![CDATA[Vendeur(se) en alternance H/F]]></title>
 <date><![CDATA[2026-09-23T12:23:00Z]]></date>
@@ -511,43 +511,6 @@
 <p>N'attendez plus, postulez dès maintenant pour cette opportunité de formation et d'emploi en alternance !</p>
 <p><strong>Pas de frais à prévoir pour le candidat retenu.</strong><br/>Type d'emploi : Apprentissage<br/>Lieu du poste : En présentiel</p>]]></description>
 <indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Employ%C3%A9(e)%20Polyvalent(e)%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_25&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Nantes%2C%20Pays%20de%20la%20Loire%2044000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_25&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
-</job>
-<job>
-<title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
-<date><![CDATA[2026-09-23T12:23:01Z]]></date>
-<referencenumber><![CDATA[TAL_2026_11]]></referencenumber>
-<requisitionid><![CDATA[TAL_2026_11]]></requisitionid>
-<url><![CDATA[https://crm.talia.fr/offres/TAL_2026_11?source=Indeed]]></url>
-<company><![CDATA[Talia]]></company>
-<city><![CDATA[Toulouse]]></city>
-<state><![CDATA[Occitanie]]></state>
-<country><![CDATA[FR]]></country>
-<postalcode><![CDATA[31000]]></postalcode>
-<email><![CDATA[cv.alternant@talia.fr]]></email>
-<salary><![CDATA[De 500€ à 1700€ par mois]]></salary>
-<jobtype><![CDATA[fulltime]]></jobtype>
-<description><![CDATA[<p><strong>L'École Talia</strong>, école 100% en ligne, accompagne ses étudiants du Bac+2 au Master en alternance. Nous recrutons pour le compte de nos entreprises partenaires des conseillers vente & accueil motivés, prêts à se former tout en gagnant une vraie expérience au premier contact des clients.</p>
-<p><strong>Vos missions (selon l'entreprise partenaire)</strong></p>
-<ul>
-<li>Assurer l'accueil et la première prise en charge de chaque client</li>
-<li>Conseiller, orienter et accompagner les clients dans leurs achats</li>
-<li>Participer aux actions de vente et à la fidélisation de la clientèle</li>
-<li>Contribuer à une expérience client fluide et chaleureuse</li>
-</ul>
-<p><strong>Profil recherché</strong></p>
-<ul>
-<li>Excellent sens de l'accueil et aisance relationnelle</li>
-<li>Dynamisme, motivation et goût du challenge commercial</li>
-<li>Aucune expérience préalable exigée : votre état d'esprit fait la différence</li>
-</ul>
-<p><strong>Ce que nous offrons</strong></p>
-<ul>
-<li>Une formation 100% en ligne, prise en charge dans le cadre de l'alternance</li>
-<li>Une rémunération selon le barème légal de l'alternance</li>
-<li>Un accompagnement personnalisé et une vraie montée en compétences commerciales</li>
-</ul>
-<p><strong>📩 Intéressé(e) ?</strong> Postulez directement via cette offre, nous reviendrons vers vous rapidement.</p>]]></description>
-<indeed-apply-data><![CDATA[indeed-apply-apiToken=1afa7300d35e8835fdc28d8141c8698a0054eaf34e49714d47b4a9b3ee65c155&indeed-apply-jobTitle=Conseiller(%C3%A8re)%20de%20vente%20en%20alternance%20H%2FF%20en%20alternance&indeed-apply-jobId=TAL_2026_11&indeed-apply-jobCompanyName=Talia&indeed-apply-jobLocation=Toulouse%2C%20Occitanie%2031000&indeed-apply-jobUrl=https%3A%2F%2Fcrm.talia.fr%2Foffres%2FTAL_2026_11&indeed-apply-postUrl=https%3A%2F%2Fcrm.talia.fr%2Fapi%2Foffres-emploi%2Findeed%2Fapply&indeed-apply-resume=required&indeed-apply-phone=required&indeed-apply-coverletter=hidden&indeed-apply-name=firstlastname]]></indeed-apply-data>
 </job>
 <job>
 <title><![CDATA[Conseiller(ère) de vente en alternance H/F]]></title>
